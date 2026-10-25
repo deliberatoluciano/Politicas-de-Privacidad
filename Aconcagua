@@ -1,0 +1,192 @@
+# Política de Privacidad / Privacy Policy
+
+**Aconcagua** — LDL Games
+Última actualización / Last updated: 25 de octubre de 2026 / October 25, 2026
+
+[Español](#español) · [English](#english)
+
+---
+
+## Español
+
+### 1. Quiénes somos
+
+**Aconcagua** (paquete `com.ldlgames.aconcagua`) es un juego móvil para Android desarrollado por **Luciano De Liberato (LDL Games)**, Bahía Blanca, Buenos Aires, Argentina.
+
+Contacto: **lucianodeliberato.games@gmail.com**
+
+Esta política explica qué información usa el juego, para qué y qué opciones tenés.
+
+### 2. Resumen
+
+- No tenés que crear una cuenta ni darnos tu nombre, email ni teléfono.
+- No tenemos servidores propios ni recibimos datos tuyos.
+- Tu progreso queda guardado solo en tu dispositivo.
+- El juego muestra publicidad de **Google AdMob**, que puede recopilar ciertos datos del dispositivo (ver sección 4).
+
+### 3. Información que se guarda en tu dispositivo
+
+El juego guarda localmente, dentro del almacenamiento privado de la app:
+
+- **Tu récord** (el nivel más alto alcanzado).
+- **La bandera de país que elegiste** para tu personaje.
+
+Estos datos **no se envían a ningún servidor** nuestro ni de terceros y no permiten identificarte. Se eliminan al desinstalar la app. La copia de seguridad automática de Android está desactivada para esta app.
+
+**Captura de la cima:** si tocás el botón "Compartir captura" al terminar el juego, la imagen se guarda en la carpeta `Pictures/Aconcagua` de tu dispositivo (o en el almacenamiento de la app si no es posible). Esa imagen queda en tu dispositivo; **la app no la sube a ningún lado**. Si decidís compartirla en redes, lo hacés vos por fuera de la app.
+
+### 4. Publicidad (Google AdMob)
+
+El juego muestra:
+
+- un **banner** durante la partida, y
+- **anuncios con recompensa** (opcionales) que podés ver para obtener una vida extra.
+
+Estos anuncios son provistos por **Google AdMob**. Al cargarlos y mostrarlos, Google y sus socios publicitarios pueden recopilar y procesar, entre otros datos:
+
+- identificador de publicidad del dispositivo (Advertising ID),
+- dirección IP aproximada y ubicación aproximada derivada de ella,
+- información del dispositivo y del sistema (modelo, versión de Android, idioma, operador),
+- datos sobre la interacción con los anuncios (impresiones, clics, errores) y datos de diagnóstico.
+
+Nosotros **no recibimos ni almacenamos** esa información. Google la trata según su propia política: <https://policies.google.com/privacy> y <https://policies.google.com/technologies/partner-sites>. Más detalles sobre cómo AdMob usa los datos: <https://support.google.com/admob/answer/6128543>.
+
+**Consentimiento.** En el Espacio Económico Europeo, Reino Unido y otras regiones donde la ley lo exige, el juego muestra un formulario de consentimiento (Google User Messaging Platform) al iniciar. Podés aceptar, rechazar o administrar tus opciones. Si no das consentimiento, los anuncios pueden mostrarse sin personalización.
+
+**Cómo controlar la publicidad personalizada.** En tu dispositivo Android podés ir a *Ajustes → Google → Anuncios* para restablecer o eliminar tu identificador de publicidad y desactivar la personalización de anuncios.
+
+### 5. Permisos de Android
+
+La app solicita solo:
+
+- **Internet** y **estado de la red**: para descargar y mostrar los anuncios.
+- **ID de publicidad** (`com.google.android.gms.permission.AD_ID`): lo usa el SDK de Google AdMob para la publicidad.
+- **Permisos técnicos que agrega el SDK de Google AdMob** (por ejemplo, mantener el dispositivo activo mientras se carga un anuncio y leer información básica del estado del teléfono, como el tipo de conexión). Los usa solo el SDK para el funcionamiento de los anuncios; la app no los usa para otra cosa.
+
+No pedimos acceso a tu ubicación precisa, contactos, cámara, micrófono, teléfono ni mensajes.
+
+### 6. Servicios de terceros
+
+| Servicio | Proveedor | Finalidad | Política |
+|---|---|---|---|
+| Google AdMob / User Messaging Platform | Google LLC | Publicidad y consentimiento | <https://policies.google.com/privacy> |
+
+El juego no usa herramientas de analítica, redes sociales integradas, inicio de sesión ni compras dentro de la aplicación.
+
+### 7. Niños
+
+El juego **no está dirigido a niños menores de 13 años** y no recopilamos a sabiendas información personal de ellos. El contenido de los anuncios está limitado a clasificación apta para público general (PG). Si creés que un menor nos dio información personal, escribinos y la eliminaremos.
+
+### 8. Conservación y eliminación de datos
+
+Los datos locales (récord y bandera) permanecen en tu dispositivo hasta que desinstales la app o borres sus datos desde *Ajustes → Aplicaciones → Aconcagua → Almacenamiento*. Como no tenemos acceso a datos personales tuyos, no hay nada que eliminar en nuestros servidores. Para los datos tratados por Google, usá los controles de tu cuenta de Google.
+
+### 9. Tus derechos
+
+Según tu país, podés tener derecho a acceder, rectificar, eliminar u oponerte al tratamiento de tus datos personales. Para lo que dependa de nosotros, escribinos al email de contacto. En Argentina, la Agencia de Acceso a la Información Pública es el órgano de control de la Ley 25.326 de Protección de Datos Personales.
+
+### 10. Seguridad
+
+Los datos que guarda el juego quedan en el almacenamiento privado de la app, al que otras aplicaciones no pueden acceder en un dispositivo sin modificar.
+
+### 11. Cambios en esta política
+
+Podemos actualizar esta política. La versión vigente siempre estará en este documento, con su fecha de última actualización. Si hay cambios importantes, lo indicaremos en la ficha de la app.
+
+### 12. Contacto
+
+**Luciano De Liberato — LDL Games**
+lucianodeliberato.games@gmail.com
+
+---
+
+## English
+
+### 1. Who we are
+
+**Aconcagua** (package `com.ldlgames.aconcagua`) is a mobile game for Android developed by **Luciano De Liberato (LDL Games)**, Bahía Blanca, Buenos Aires, Argentina.
+
+Contact: **lucianodeliberato.games@gmail.com**
+
+This policy explains what information the game uses, why, and what choices you have.
+
+### 2. Summary
+
+- You do not need to create an account or give us your name, email or phone number.
+- We do not run our own servers and we do not receive your data.
+- Your progress is stored only on your device.
+- The game shows ads from **Google AdMob**, which may collect certain device data (see section 4).
+
+### 3. Information stored on your device
+
+The game stores locally, in the app's private storage:
+
+- **Your best record** (highest level reached).
+- **The country flag you picked** for your character.
+
+This data is **not sent to any server** of ours or of third parties and cannot identify you. It is removed when you uninstall the app. Android automatic backup is disabled for this app.
+
+**Summit screenshot:** if you tap the "Share screenshot" button at the end of the game, the image is saved to the `Pictures/Aconcagua` folder on your device (or to the app's storage if that is not possible). The image stays on your device; **the app does not upload it anywhere**. If you choose to share it on social media, you do it yourself outside the app.
+
+### 4. Advertising (Google AdMob)
+
+The game shows:
+
+- a **banner** during gameplay, and
+- optional **rewarded ads** you can watch to get an extra life.
+
+These ads are served by **Google AdMob**. When ads are loaded and displayed, Google and its advertising partners may collect and process, among other things:
+
+- the device advertising identifier (Advertising ID),
+- approximate IP address and the approximate location derived from it,
+- device and system information (model, Android version, language, carrier),
+- ad interaction data (impressions, clicks, errors) and diagnostics.
+
+We **do not receive or store** this information. Google handles it under its own policy: <https://policies.google.com/privacy> and <https://policies.google.com/technologies/partner-sites>. More about how AdMob uses data: <https://support.google.com/admob/answer/6128543>.
+
+**Consent.** In the European Economic Area, the United Kingdom and other regions where required by law, the game shows a consent form (Google User Messaging Platform) on startup. You can accept, decline or manage your choices. If you do not consent, ads may be shown without personalization.
+
+**How to control personalized ads.** On your Android device go to *Settings → Google → Ads* to reset or delete your advertising ID and opt out of ad personalization.
+
+### 5. Android permissions
+
+The app requests only:
+
+- **Internet** and **network state**: to download and display ads.
+- **Advertising ID** (`com.google.android.gms.permission.AD_ID`): used by the Google AdMob SDK for advertising.
+- **Technical permissions added by the Google AdMob SDK** (for example, keeping the device awake while an ad loads and reading basic phone state such as connection type). They are used only by the SDK for ads to work; the app does not use them for anything else.
+
+We do not request access to your precise location, contacts, camera, microphone, phone or messages.
+
+### 6. Third-party services
+
+| Service | Provider | Purpose | Policy |
+|---|---|---|---|
+| Google AdMob / User Messaging Platform | Google LLC | Advertising and consent | <https://policies.google.com/privacy> |
+
+The game does not use analytics tools, embedded social networks, sign-in, or in-app purchases.
+
+### 7. Children
+
+The game is **not directed to children under 13** and we do not knowingly collect personal information from them. Ad content is limited to a general-audience (PG) rating. If you believe a child has given us personal information, contact us and we will delete it.
+
+### 8. Retention and deletion
+
+Local data (record and flag) stays on your device until you uninstall the app or clear its data from *Settings → Apps → Aconcagua → Storage*. Since we have no access to your personal data, there is nothing to delete on our servers. For data processed by Google, use your Google account controls.
+
+### 9. Your rights
+
+Depending on your country, you may have the right to access, correct, delete or object to the processing of your personal data. For anything that depends on us, email us at the contact address above.
+
+### 10. Security
+
+Data saved by the game stays in the app's private storage, which other apps cannot access on an unmodified device.
+
+### 11. Changes to this policy
+
+We may update this policy. The current version will always be in this document, with its last-updated date. For significant changes we will say so on the app's store listing.
+
+### 12. Contact
+
+**Luciano De Liberato — LDL Games**
+lucianodeliberato.games@gmail.com
