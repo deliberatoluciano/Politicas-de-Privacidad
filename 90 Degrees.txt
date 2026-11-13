@@ -1,1 +1,93 @@
+Política de privacidad
+Juego: 90 Degrees (Android) · Desarrollador: Luciano Deliberato · Última actualización: 13 de noviembre de 2026
 
+Esta política explica qué información se usa cuando jugás a 90 Degrees ("el juego"). Resumen: el juego no te pide cuenta, nombre ni email, y no recopilamos datos personales por nuestra cuenta. Lo único que sale de tu dispositivo son los datos que Google AdMob usa para mostrar anuncios.
+
+1. Información que guarda el juego en tu dispositivo
+El juego guarda localmente, en el almacenamiento privado de la app, un pequeño archivo con tu progreso: mejores puntuaciones, niveles alcanzados, finales vistos, skins desbloqueadas y equipada, idioma elegido y datos del reto diario (racha y mejor marca). Esta información no se envía a ningún servidor nuestro y se elimina al desinstalar el juego o borrar sus datos.
+
+2. Información que no recopilamos
+No hay registro de usuarios ni inicio de sesión.
+No pedimos nombre, email, teléfono, ubicación, contactos, fotos, micrófono ni cámara.
+No tenemos servidores propios ni bases de datos de usuarios.
+3. Publicidad (Google AdMob)
+El juego muestra anuncios mediante Google AdMob, un servicio de Google LLC. Los anuncios incluyen banners, anuncios intersticiales y anuncios recompensados (opcionales, que podés ver para continuar una partida).
+
+Para mostrarlos, AdMob y sus socios publicitarios pueden recopilar y usar automáticamente, desde tu dispositivo:
+
+El identificador de publicidad del dispositivo (Advertising ID).
+La dirección IP y la ubicación aproximada derivada de ella.
+Información del dispositivo y de la app (modelo, versión del sistema, idioma, versión de la app).
+Datos de interacción con los anuncios (impresiones, clics) y de rendimiento o fallos del SDK.
+Estos datos los trata Google conforme a su propia política: policies.google.com/privacy. Más información sobre cómo Google usa los datos de apps asociadas: policies.google.com/technologies/partner-sites.
+
+Configuramos el juego para recibir anuncios con una clasificación de contenido máxima para adolescentes (T) o inferior.
+
+4. Tus opciones sobre la publicidad
+Restablecer o eliminar el identificador de publicidad: en Android, Ajustes → Google → Anuncios (o Privacidad → Anuncios).
+Desactivar la personalización de anuncios: en el mismo menú de Ajustes de Android o en adssettings.google.com.
+Usuarios del Espacio Económico Europeo, Reino Unido y Suiza: cuando corresponda, se mostrará un formulario de consentimiento para que aceptes o rechaces el uso de datos con fines publicitarios. Podés cambiar tu elección más adelante.
+5. Compartición de datos
+No vendemos ni compartimos datos personales con terceros, salvo los datos que procesa Google AdMob como se describe arriba.
+
+6. Privacidad de los menores
+El juego está dirigido a un público general de 13 años o más y no está dirigido a menores de 13 años. No recopilamos a sabiendas información personal de niños menores de 13 años. Si creés que un menor nos proporcionó datos, escribinos y los eliminaremos en lo que nos corresponda.
+
+7. Seguridad y conservación
+Los datos de progreso permanecen solo en tu dispositivo. Los datos publicitarios son conservados por Google según sus propias políticas.
+
+8. Tus derechos
+Como no almacenamos datos personales tuyos en servidores propios, no tenemos información que acceder, corregir o borrar. Para datos tratados por Google, podés ejercer tus derechos desde myaccount.google.com. Si tenés cualquier duda, contactanos.
+
+9. Cambios en esta política
+Podemos actualizar esta política. Publicaremos la versión vigente en esta misma página con su fecha de actualización.
+
+10. Contacto
+Luciano Deliberato · lucianodeliberato.games@gmail.com
+
+Privacy Policy
+Game: 90 Degrees (Android) · Developer: Luciano Deliberato · Last updated: November 13, 2026
+
+This policy explains what information is used when you play 90 Degrees ("the game"). In short: the game does not ask for an account, name or email, and we do not collect personal data ourselves. The only data that leaves your device is what Google AdMob uses to serve ads.
+
+1. Information stored on your device
+The game saves a small file locally, in the app's private storage, with your progress: high scores, levels reached, endings seen, unlocked and equipped ship skins, selected language, and daily challenge data (streak and best result). This information is never sent to any server of ours and is removed when you uninstall the game or clear its data.
+
+2. Information we do not collect
+No user registration or login.
+We do not ask for your name, email, phone number, location, contacts, photos, microphone or camera.
+We have no servers or user databases of our own.
+3. Advertising (Google AdMob)
+The game displays ads through Google AdMob, a service of Google LLC. Ads include banners, interstitial ads and rewarded ads (optional; you can watch one to continue a run).
+
+To serve them, AdMob and its advertising partners may automatically collect and use from your device:
+
+The device advertising identifier (Advertising ID).
+The IP address and the approximate location derived from it.
+Device and app information (model, OS version, language, app version).
+Ad interaction data (impressions, clicks) and SDK performance or crash data.
+Google processes this data under its own policy: policies.google.com/privacy. More on how Google uses data from partner apps: policies.google.com/technologies/partner-sites.
+
+The game is configured to request ads with a maximum content rating of Teen (T) or lower.
+
+4. Your advertising choices
+Reset or delete your advertising ID: on Android, Settings → Google → Ads (or Privacy → Ads).
+Opt out of ads personalization: in the same Android settings menu or at adssettings.google.com.
+Users in the European Economic Area, the UK and Switzerland: where applicable, a consent form lets you accept or refuse the use of data for advertising. You can change your choice later.
+5. Data sharing
+We do not sell or share personal data with third parties, other than the data processed by Google AdMob as described above.
+
+6. Children's privacy
+The game is intended for a general audience aged 13 and over and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you believe a child has provided us with data, contact us and we will delete what is within our control.
+
+7. Security and retention
+Progress data stays only on your device. Advertising data is retained by Google according to its own policies.
+
+8. Your rights
+Because we do not store your personal data on servers of our own, we hold no information to access, correct or delete. For data processed by Google, you can exercise your rights at myaccount.google.com. If you have any questions, contact us.
+
+9. Changes to this policy
+We may update this policy. The current version will be published on this page together with its update date.
+
+10. Contact
+Luciano Deliberato · lucianodeliberato.games@gmail.com
