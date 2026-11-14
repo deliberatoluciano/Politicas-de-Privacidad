@@ -1,0 +1,61 @@
+🐮 Vaquita – Política de privacidad
+Última actualización: 14 de noviembre de 2026 · English below
+
+Vaquita es una app para dividir gastos entre amigos, desarrollada por Luciano De Liberato. Esta política explica qué pasa con tu información.
+
+Resumen
+Vaquita no recopila, no envía y no vende datos personales. No tiene cuentas, registro, publicidad ni herramientas de análisis.
+
+Datos que cargás
+Los nombres, montos, gastos y alias o CBU que cargás se guardan solamente en tu teléfono. No se envían a ningún servidor del desarrollador.
+
+Si tenés activada la copia de seguridad de Android, el sistema puede incluir estos datos en tu copia de Google, que se rige por la política de privacidad de Google. Podés desactivarla desde la configuración del teléfono.
+
+Compartir el resumen
+Cuando tocás "Compartir", la app arma un texto y lo pasa a la app que elijas, por ejemplo WhatsApp. Ese envío lo hacés vos, y desde ahí rige la política de esa app.
+
+Compras y donaciones
+Vaquita Pro y las donaciones se pagan con Google Play. El desarrollador no recibe ni guarda tus datos de pago. La app solo consulta a Google Play si tu cuenta tiene Vaquita Pro, para activarla. Ver la Política de privacidad de Google.
+
+Menores
+La app no está dirigida a menores de 13 años y no recopila datos de nadie.
+
+Borrar tus datos
+Podés borrar cada vaquita desde la app, o todo junto desinstalando la app o borrando sus datos desde Ajustes → Apps → Vaquita.
+
+Cambios
+Si esta política cambia, se actualiza en esta página con una nueva fecha.
+
+Contacto
+Luciano De Liberato · lucianodeliberatogames@gmail.com
+
+🐮 Vaquita – Privacy Policy
+Last updated: November 14, 2026
+
+Vaquita is an app for splitting expenses with friends, developed by Luciano De Liberato. This policy explains what happens to your information.
+
+Summary
+Vaquita does not collect, send or sell any personal data. There are no accounts, sign-up, ads or analytics.
+
+Data you enter
+The names, amounts, expenses and payment info you enter are stored only on your phone. They are never sent to the developer's servers.
+
+If Android backup is turned on, the system may include this data in your Google backup, which is covered by Google's privacy policy. You can turn backup off in your phone settings.
+
+Sharing a summary
+When you tap "Share", the app builds a text message and hands it to the app you choose, for example WhatsApp. You send it yourself, and from there that app's policy applies.
+
+Purchases and donations
+Vaquita Pro and donations are paid through Google Play. The developer never receives or stores your payment details. The app only asks Google Play whether your account owns Vaquita Pro, so it can turn it on. See Google's Privacy Policy.
+
+Children
+The app is not directed at children under 13 and collects no data from anyone.
+
+Deleting your data
+You can delete each vaquita in the app, or everything at once by uninstalling the app or clearing its data in Settings → Apps → Vaquita.
+
+Changes
+If this policy changes, this page will be updated with a new date.
+
+Contact
+Luciano De Liberato · lucianodeliberatogames@gmail.com
